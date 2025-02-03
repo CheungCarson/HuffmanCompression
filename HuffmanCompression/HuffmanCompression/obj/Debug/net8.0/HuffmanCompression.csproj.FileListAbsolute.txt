@@ -1,0 +1,14 @@
+C:\Users\carso\source\repos\HuffmanCompression\HuffmanCompression\obj\Debug\net8.0\HuffmanCompression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carso\source\repos\HuffmanCompression\HuffmanCompression\obj\Debug\net8.0\HuffmanCompression.AssemblyInfoInputs.cache
+C:\Users\carso\source\repos\HuffmanCompression\HuffmanCompression\obj\Debug\net8.0\HuffmanCompression.AssemblyInfo.cs
+C:\Users\carso\source\repos\HuffmanCompression\HuffmanCompression\obj\Debug\net8.0\HuffmanCompression.csproj.CoreCompileInputs.cache
+C:\Users\carso\source\repos\HuffmanCompression\HuffmanCompression\bin\Debug\net8.0\HuffmanCompression.exe
+C:\Users\carso\source\repos\HuffmanCompression\HuffmanCompression\bin\Debug\net8.0\HuffmanCompression.deps.json
+C:\Users\carso\source\repos\HuffmanCompression\HuffmanCompression\bin\Debug\net8.0\HuffmanCompression.runtimeconfig.json
+C:\Users\carso\source\repos\HuffmanCompression\HuffmanCompression\bin\Debug\net8.0\HuffmanCompression.dll
+C:\Users\carso\source\repos\HuffmanCompression\HuffmanCompression\bin\Debug\net8.0\HuffmanCompression.pdb
+C:\Users\carso\source\repos\HuffmanCompression\HuffmanCompression\obj\Debug\net8.0\HuffmanCompression.dll
+C:\Users\carso\source\repos\HuffmanCompression\HuffmanCompression\obj\Debug\net8.0\refint\HuffmanCompression.dll
+C:\Users\carso\source\repos\HuffmanCompression\HuffmanCompression\obj\Debug\net8.0\HuffmanCompression.pdb
+C:\Users\carso\source\repos\HuffmanCompression\HuffmanCompression\obj\Debug\net8.0\HuffmanCompression.genruntimeconfig.cache
+C:\Users\carso\source\repos\HuffmanCompression\HuffmanCompression\obj\Debug\net8.0\ref\HuffmanCompression.dll
